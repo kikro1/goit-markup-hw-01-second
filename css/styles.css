@@ -1,0 +1,44 @@
+body {
+  padding: 0px;
+  margin: 0px;
+
+
+font-family: "Roboto" sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+
+color: #2E2F42;
+
+  
+}
+
+ul, ol {
+  list-style: none;
+  
+}
+
+a {
+  text-decoration: none;
+}
+
+.logo-header {
+  font-family: "Raleway" sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 0.03em;
+text-align: left;
+
+}
+
+.span-logo-header {
+  color:#4D5AE5;  
+  
+}
+
+.list-header>li {
+  padding-left: 40px;
+}
